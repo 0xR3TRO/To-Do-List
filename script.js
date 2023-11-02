@@ -1,4 +1,4 @@
-// Scripts and functions on this page are the creation of 0xR3TR0. All rights reserved. 
+// Scripts and functions on this page are the creation of 0xR3TR0. All rights reserved.  
 const inputBox = document.getElementById("input-box");
 const listContainer = document.getElementById("list-container");
 
